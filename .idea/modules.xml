@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AlgoritmosEProgramacaoII.iml" filepath="$PROJECT_DIR$/.idea/AlgoritmosEProgramacaoII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContagemRegressiva/ContagemRegressiva.iml" filepath="$PROJECT_DIR$/ContagemRegressiva/ContagemRegressiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonaci/Fibonaci.iml" filepath="$PROJECT_DIR$/Fibonaci/Fibonaci.iml" />
       <module fileurl="file://$PROJECT_DIR$/GerenciadorLojaAna/GerenciadorLojaAna.iml" filepath="$PROJECT_DIR$/GerenciadorLojaAna/GerenciadorLojaAna.iml" />
       <module fileurl="file://$PROJECT_DIR$/Notas/Notas.iml" filepath="$PROJECT_DIR$/Notas/Notas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Potencia/Potencia.iml" filepath="$PROJECT_DIR$/Potencia/Potencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temperatura/Temperatura.iml" filepath="$PROJECT_DIR$/Temperatura/Temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vogais/Vogais.iml" filepath="$PROJECT_DIR$/Vogais/Vogais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogo/jogo.iml" filepath="$PROJECT_DIR$/jogo/jogo.iml" />
     </modules>
   </component>
 </project>
