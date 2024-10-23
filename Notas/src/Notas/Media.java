@@ -1,3 +1,4 @@
+package Notas;
 import java.util.Scanner;
 
 public class Media {
