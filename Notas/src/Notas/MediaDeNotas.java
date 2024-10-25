@@ -1,7 +1,10 @@
+
 package Notas;
+
 import java.util.Scanner;
 
-public class Media {
+
+public class MediaDeNotas {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
