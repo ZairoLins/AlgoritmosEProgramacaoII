@@ -1,8 +1,4 @@
-
-package Notas;
-
 import java.util.Scanner;
-
 
 public class MediaDeNotas {
 
@@ -55,3 +51,4 @@ public class MediaDeNotas {
         return (media + exameFinal) / 2;
     }
 }
+
